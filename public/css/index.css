@@ -82,7 +82,7 @@ nav ul li .login-btn:hover {
   background-size: cover;
   background-position: center;
   display: flex;
-  justify-content: flex-end; /* Align hero-text to the right */
+  justify-content: flex-end; /* Align hero-text to the kanan */
   align-items: center;
   text-align: left; /* Align text to the left inside the box */
   position: relative;
